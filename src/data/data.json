@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Data Science Bootcamp - Graded Datathon",
+    "image": "one",
+    "startsin": {
+      "days": "00",
+      "hours": 15,
+      "minutes": 22
+    },
+    "status": "upcoming",
+    "level": "easy"
+  },
+  {
+    "id": 2,
+    "title": "Data Sprint 72 - Butterfly Identification",
+    "image": "two",
+    "startsin": {
+      "days": "00",
+      "hours": 12,
+      "minutes": 34
+    },
+    "status": "upcoming",
+    "level": "easy"
+  },
+  {
+    "id": 3,
+    "title": "Data Sprint 71 - Weather Recognition",
+    "image": "three",
+    "endsin": {
+      "days": "00",
+      "hours": 17,
+      "minutes": 10
+    },
+    "status": "active",
+    "level": "easy"
+  },
+  {
+    "id": 4,
+    "title": "Data Sprint 70-Airline Passenger Satisfaction",
+    "image": "four",
+    "endsin": {
+      "days": "00",
+      "hours": 11,
+      "minutes": 27
+    },
+    "status": "active",
+    "level": "easy"
+  },
+  {
+    "id": 5,
+    "title": "Engineering Graduates Employment Outcomes",
+    "image": "five",
+    "endedon": "16th May'22 09:00 PM",
+    "status": "past",
+    "level": "easy"
+  },
+  {
+    "id": 6,
+    "title": "Travel Insurance Claim Prediction",
+    "image": "six",
+    "endedon": "16th May'22 09:00 PM",
+    "status": "past",
+    "level": "easy"
+  }
+]
